@@ -1,0 +1,322 @@
+Country Code,ISO3,Country Name eng,Country Name fr,Start Year,End Year,ISO2 Code,M49 Code
+2,AFG,Afghanistan,Afghanistan,,,AF,4.0
+5100,X06,Africa,,,,,2.0
+284,ALA,Åland Islands,,,,,248.0
+3,ALB,Albania,Albanie,,,AL,8.0
+4,DZA,Algeria,Algérie,,,DZ,12.0
+5,ASM,American Samoa,Samoa américaines,,,AS,16.0
+5200,X21,Americas,,,,,19.0
+6,AND,Andorra,Andorre,,,AD,20.0
+7,AGO,Angola,Angola,,,AO,24.0
+258,AIA,Anguilla,,,,AI,660.0
+5848,,Annex I countries,,,,,
+5600,,Antarctic Region,,,,,
+30,ATA,Antarctica,,,,AQ,10.0
+8,ATG,Antigua and Barbuda,Antigua-et-Barbuda,,,AG,28.0
+9,ARG,Argentina,Argentine,,,AR,32.0
+1,ARM,Armenia,Arménie,1992.0,,AM,51.0
+22,ABW,Aruba,Aruba,,,AW,533.0
+5300,,Asia,,,,,142.0
+10,AUS,Australia,Australie,,,AU,36.0
+5501,,Australia and New Zealand,,,,,53.0
+11,AUT,Austria,Autriche,,,AT,40.0
+52,AZE,Azerbaijan,Azerbaïdjan,1992.0,,AZ,31.0
+12,BHS,Bahamas,Bahamas,,,BS,44.0
+13,BHR,Bahrain,Bahreïn,,,BH,48.0
+16,BGD,Bangladesh,Bangladesh,,,BD,50.0
+14,BRB,Barbados,Barbade,,,BB,52.0
+57,BLR,Belarus,Bélarus,1992.0,,BY,112.0
+255,BEL,Belgium,Belgique,2000.0,,BE,56.0
+15,,Belgium-Luxembourg,,,1999.0,,58.0
+23,BLZ,Belize,Belize,,,BZ,84.0
+53,BEN,Benin,Bénin,,,BJ,204.0
+17,BMU,Bermuda,Bermudes,,,BM,60.0
+18,BTN,Bhutan,Bhoutan,,,BT,64.0
+19,BOL,Bolivia (Plurinational State of),Bolivie,,,BO,68.0
+278,BES,"Bonaire, Sint Eustatius and Saba",,2011.0,,,535.0
+80,BIH,Bosnia and Herzegovina,Bosnie-Herzégovine,1992.0,,BA,70.0
+20,BWA,Botswana,Botswana,,,BW,72.0
+31,BVT,Bouvet Island,,,,BV,74.0
+21,BRA,Brazil,Brésil,,,BR,76.0
+24,IOT,British Indian Ocean Territory,,,,IO,86.0
+239,VGB,British Virgin Islands,Îles Vierges britanniques,,,VG,92.0
+26,BRN,Brunei Darussalam,Brunéi Darussalam,,,BN,96.0
+27,BGR,Bulgaria,Bulgarie,,,BG,100.0
+233,BFA,Burkina Faso,Burkina Faso,,,BF,854.0
+29,BDI,Burundi,Burundi,,,BI,108.0
+35,CPV,Cabo Verde,Cabo Verde,,,CV,132.0
+115,KHM,Cambodia,Cambodge,,,KH,116.0
+32,CMR,Cameroon,Cameroun,,,CM,120.0
+33,CAN,Canada,Canada,,,CA,124.0
+5206,,Caribbean,,,,,29.0
+36,CYM,Cayman Islands,Îles Caïmans,,,KY,136.0
+37,CAF,Central African Republic,République centrafricaine,,,CF,140.0
+5204,,Central America,,,,,13.0
+5301,,Central Asia,,,,,143.0
+5306,,Central Asia and Southern Asia,,,,,
+39,TCD,Chad,Tchad,,,TD,148.0
+259,CHA,Channel Islands,,,,,830.0
+40,CHL,Chile,Chili,,,CL,152.0
+351,CHN,China,Chine,,,,
+96,HKG,"China, Hong Kong SAR","Chine, RAS de Hong Kong",,,HK,344.0
+128,MAC,"China, Macao SAR","Région administrative spéciale de Macao, Chine",,,MO,446.0
+41,,"China, mainland",,,,CN,156.0
+214,TWN,"China, Taiwan Province of",,,,TW,158.0
+42,CXR,Christmas Island,,,,CX,162.0
+43,CCK,Cocos (Keeling) Islands,,,,CC,166.0
+44,COL,Colombia,Colombie,,,CO,170.0
+45,COM,Comoros,Comores,,,KM,174.0
+46,COG,Congo,"Congo, République du",,,CG,178.0
+47,COK,Cook Islands,,,,CK,184.0
+48,CRI,Costa Rica,Costa Rica,,,CR,188.0
+107,CIV,Côte d'Ivoire,Côte d'Ivoire,,,CI,384.0
+98,HRV,Croatia,Croatie,1992.0,,HR,191.0
+49,CUB,Cuba,Cuba,,,CU,192.0
+279,CUW,Curaçao,Curacao,2011.0,,,531.0
+50,CYP,Cyprus,Chypre,,,CY,196.0
+167,CZE,Czechia,République tchèque,1993.0,,CZ,203.0
+51,,Czechoslovakia,,,1992.0,,200.0
+116,PRK,Democratic People's Republic of Korea,"Corée, République démocratique de",,,KP,408.0
+250,COD,Democratic Republic of the Congo,"Congo, République démocratique du",,,CD,180.0
+54,DNK,Denmark,Danemark,,,DK,208.0
+72,DJI,Djibouti,Djibouti,,,DJ,262.0
+55,DMA,Dominica,Dominique,,,DM,212.0
+56,DOM,Dominican Republic,République dominicaine,,,DO,214.0
+5854,,East Asia (excluding China),,,,,223.0
+5101,,Eastern Africa,,,,,14.0
+5302,,Eastern Asia,,,,,30.0
+5307,,Eastern Asia and South-eastern Asia,,,,,753.0
+5401,,Eastern Europe,,,,,151.0
+58,ECU,Ecuador,Équateur,,,EC,218.0
+59,EGY,Egypt,"Égypte, République arabe d’",,,EG,818.0
+60,SLV,El Salvador,El Salvador,,,SV,222.0
+61,GNQ,Equatorial Guinea,Guinée équatoriale,,,GQ,226.0
+178,ERI,Eritrea,Érythrée,1993.0,,ER,232.0
+63,EST,Estonia,Estonie,1992.0,,EE,233.0
+209,SWZ,Eswatini,Eswatini,,,SZ,748.0
+238,ETH,Ethiopia,Éthiopie,1993.0,,ET,231.0
+62,,Ethiopia PDR,,,1992.0,,230.0
+5400,,Europe,,,,,150.0
+5707,,European Union (27),,,,,
+5706,,European Union (28),,,,,97.0
+65,FLK,Falkland Islands (Malvinas),,,,FK,238.0
+64,FRO,Faroe Islands,Îles Féroé,,,FO,234.0
+66,FJI,Fiji,Fidji,,,FJ,242.0
+67,FIN,Finland,Finlande,,,FI,246.0
+68,FRA,France,France,,,FR,250.0
+69,GUF,French Guyana,,,,GF,254.0
+70,PYF,French Polynesia,Polynésie française,,,PF,258.0
+71,ATF,French Southern Territories,,,,TF,260.0
+74,GAB,Gabon,Gabon,,,GA,266.0
+75,GMB,Gambia,Gambie,,,GM,270.0
+73,GEO,Georgia,Géorgie,1992.0,,GE,268.0
+79,DEU,Germany,Allemagne,,,DE,276.0
+78,,Germany Fr,,,,,280.0
+77,,Germany Nl,,,,,278.0
+81,GHA,Ghana,Ghana,,,GH,288.0
+82,GIB,Gibraltar,Gibraltar,,,GI,292.0
+84,GRC,Greece,Grèce,,,GR,300.0
+85,GRL,Greenland,Groenland,,,GL,304.0
+86,GRD,Grenada,Grenade,,,GD,308.0
+87,GLP,Guadeloupe,,,,GP,312.0
+88,GUM,Guam,Guam,,,GU,316.0
+89,GTM,Guatemala,Guatemala,,,GT,320.0
+90,GIN,Guinea,Guinée,,,GN,324.0
+175,GNB,Guinea-Bissau,Guinée-Bissau,,,GW,624.0
+91,GUY,Guyana,Guyana,,,GY,328.0
+93,HTI,Haiti,Haïti,,,HT,332.0
+92,HMD,Heard and McDonald Islands,,,,HM,334.0
+9010,,High-income economies,,,,,
+94,VAT,Holy See,,,,VA,336.0
+95,HND,Honduras,Honduras,,,HN,340.0
+97,HUN,Hungary,Hongrie,,,HU,348.0
+99,ISL,Iceland,Islande,,,IS,352.0
+100,IND,India,Inde,,,IN,356.0
+101,IDN,Indonesia,Indonésie,,,ID,360.0
+102,IRN,Iran (Islamic Republic of),"Iran, République islamique d’",,,IR,364.0
+103,IRQ,Iraq,Iraq,,,IQ,368.0
+104,IRL,Ireland,Irlande,,,IE,372.0
+264,IMN,Isle of Man,Île de Man,,,IM,833.0
+105,ISR,Israel,Israël,,,IL,376.0
+106,ITA,Italy,Italie,,,IT,380.0
+109,JAM,Jamaica,Jamaïque,,,JM,388.0
+110,JPN,Japan,Japon,,,JP,392.0
+283,JEY,Jersey,,,,,832.0
+111,JTN,Johnston Island,,,,JT,396.0
+112,JOR,Jordan,Jordanie,,,JO,400.0
+108,KAZ,Kazakhstan,Kazakhstan,1992.0,,KZ,398.0
+114,KEN,Kenya,Kenya,,,KE,404.0
+83,KIR,Kiribati,Kiribati,,,KI,296.0
+118,KWT,Kuwait,Koweït,,,KW,414.0
+113,KGZ,Kyrgyzstan,République kirghize,1992.0,,KG,417.0
+5802,,Land Locked Developing Countries,,,,,432.0
+120,LAO,Lao People's Democratic Republic,République démocratique populaire lao,,,LA,418.0
+5205,,Latin America and the Caribbean,,,,,419.0
+119,LVA,Latvia,Lettonie,1992.0,,LV,428.0
+5801,,Least Developed Countries,,,,,199.0
+121,LBN,Lebanon,Liban,,,LB,422.0
+122,LSO,Lesotho,Lesotho,,,LS,426.0
+123,LBR,Liberia,Libéria,,,LR,430.0
+124,LBY,Libya,Libye,,,LY,434.0
+125,LIE,Liechtenstein,Liechtenstein,,,LI,438.0
+126,LTU,Lithuania,Lituanie,1992.0,,LT,440.0
+5858,,Low income economies,,,,,
+5815,,Low Income Food Deficit Countries,,,,,
+5859,,Lower-middle-income economies,,,,,
+256,LUX,Luxembourg,Luxembourg,2000.0,,LU,442.0
+129,MDG,Madagascar,Madagascar,,,MG,450.0
+130,MWI,Malawi,Malawi,,,MW,454.0
+131,MYS,Malaysia,Malaisie,,,MY,458.0
+132,MDV,Maldives,Maldives,,,MV,462.0
+133,MLI,Mali,Mali,,,ML,466.0
+134,MLT,Malta,Malte,,,MT,470.0
+127,MHL,Marshall Islands,Îles Marshall,1991.0,,MH,584.0
+135,MTQ,Martinique,,,,MQ,474.0
+136,MRT,Mauritania,Mauritanie,,,MR,478.0
+137,MUS,Mauritius,Maurice,,,MU,480.0
+270,MYT,Mayotte,,,,YT,175.0
+5502,,Melanesia,,,,,54.0
+138,MEX,Mexico,Mexique,,,MX,484.0
+5503,,Micronesia,,,,,57.0
+145,FSM,Micronesia (Federated States of),"Micronésie, États fédérés de",1991.0,,FM,583.0
+5102,,Middle Africa,,,,,17.0
+139,MID,Midway Island,,,,MI,488.0
+140,MCO,Monaco,Monaco,,,MC,492.0
+141,MNG,Mongolia,Mongolie,,,MN,496.0
+273,MNE,Montenegro,Monténégro,2006.0,,ME,499.0
+142,MSR,Montserrat,,,,MS,500.0
+143,MAR,Morocco,Maroc,,,MA,504.0
+144,MOZ,Mozambique,Mozambique,,,MZ,508.0
+28,MMR,Myanmar,Myanmar,,,MM,104.0
+147,NAM,Namibia,Namibie,,,,516.0
+148,NRU,Nauru,Nauru,,,NR,520.0
+149,NPL,Nepal,Népal,,,NP,524.0
+5817,,Net Food Importing Developing Countries,,,,,
+150,NLD,Netherlands,Pays-Bas,,,NL,528.0
+151,ANT,Netherlands Antilles (former),,,2010.0,AN,530.0
+153,NCL,New Caledonia,Nouvelle-Calédonie,,,NC,540.0
+156,NZL,New Zealand,Nouvelle-Zélande,,,NZ,554.0
+157,NIC,Nicaragua,Nicaragua,,,NI,558.0
+158,NER,Niger,Niger,,,NE,562.0
+159,NGA,Nigeria,Nigéria,,,NG,566.0
+160,NIU,Niue,,,,NU,570.0
+5849,,Non-Annex I countries,,,,,
+161,NFK,Norfolk Island,,,,NF,574.0
+429,,North Africa (excluding Sudan),,,,,746.0
+154,MKD,North Macedonia,Macédoine du Nord,1992.0,,MK,807.0
+5103,,Northern Africa,,,,,15.0
+5203,,Northern America,,,,,21.0
+5208,,Northern America and Europe,,,,,
+5402,,Northern Europe,,,,,154.0
+163,MNP,Northern Mariana Islands,Mariannes,1991.0,,MP,580.0
+162,NOR,Norway,Norvège,,,NO,578.0
+5500,,Oceania,,,,,9.0
+5807,,Oceania excluding Australia and New Zealand,,,,,
+5873,,OECD,,,,,198.0
+221,OMN,Oman,Oman,,,OM,512.0
+164,,Pacific Islands Trust Territory,,,1990.0,,582.0
+165,PAK,Pakistan,Pakistan,,,PK,586.0
+180,PLW,Palau,Palaos,1991.0,,PW,585.0
+299,PSE,Palestine,Cisjordanie et Gaza,,,,275.0
+166,PAN,Panama,Panama,,,PA,591.0
+168,PNG,Papua New Guinea,Papouasie-Nouvelle-Guinée,,,PG,598.0
+169,PRY,Paraguay,Paraguay,,,PY,600.0
+170,PER,Peru,Pérou,,,PE,604.0
+171,PHL,Philippines,Philippines,,,PH,608.0
+172,PCN,Pitcairn,,,,PN,612.0
+173,POL,Poland,Pologne,,,PL,616.0
+5504,,Polynesia,,,,,61.0
+174,PRT,Portugal,Portugal,,,PT,620.0
+177,PRI,Puerto Rico,Porto Rico,,,PR,630.0
+179,QAT,Qatar,Qatar,,,QA,634.0
+117,KOR,Republic of Korea,"Corée, République de",,,KR,410.0
+146,MDA,Republic of Moldova,Moldova,1992.0,,MD,498.0
+182,REU,Réunion,,,,RE,638.0
+183,ROU,Romania,Roumanie,,,RO,642.0
+185,RUS,Russian Federation,Fédération de Russie,1992.0,,RU,643.0
+184,RWA,Rwanda,Rwanda,,,RW,646.0
+282,BLM,Saint Barthélemy,,2011.0,,,652.0
+187,SHN,"Saint Helena, Ascension and Tristan da Cunha",,,,SH,654.0
+188,KNA,Saint Kitts and Nevis,Saint-Kitts-et-Nevis,,,KN,659.0
+189,LCA,Saint Lucia,Sainte-Lucie,,,LC,662.0
+190,SPM,Saint Pierre and Miquelon,,,,PM,666.0
+191,VCT,Saint Vincent and the Grenadines,Saint-Vincent-et-les Grenadines,,,VC,670.0
+281,MAF,Saint-Martin (French part),Saint-Martin (fr),2011.0,,,663.0
+244,WSM,Samoa,Samoa,,,WS,882.0
+192,SMR,San Marino,Saint-Marin,,,SM,674.0
+193,STP,Sao Tome and Principe,Sao Tomé-et-Principe,,,ST,678.0
+194,SAU,Saudi Arabia,Arabie saoudite,,,SA,682.0
+195,SEN,Senegal,Sénégal,,,SN,686.0
+272,SRB,Serbia,Serbie,2006.0,,RS,688.0
+286,,Serbia (excluding Kosovo),,,,,
+186,SCG,Serbia and Montenegro,,1992.0,2005.0,CS,891.0
+196,SYC,Seychelles,Seychelles,,,SC,690.0
+197,SLE,Sierra Leone,Sierra Leone,,,SL,694.0
+200,SGP,Singapore,Singapour,,,SG,702.0
+280,SXM,Sint Maarten (Dutch part),Sint Maarten (Dutch part),2011.0,,,534.0
+199,SVK,Slovakia,République slovaque,1993.0,,SK,703.0
+198,SVN,Slovenia,Slovénie,1992.0,,SI,705.0
+5803,,Small Island Developing States,,,,,722.0
+25,SLB,Solomon Islands,Îles Salomon,,,SB,90.0
+201,SOM,Somalia,Somalie,,,SO,706.0
+202,ZAF,South Africa,Afrique du Sud,,,ZA,710.0
+5207,,South America,,,,,5.0
+5855,,South Asia (excluding India),,,,,
+271,SGS,South Georgia and the South Sandwich Islands,,,,GS,239.0
+277,SSD,South Sudan,Soudan du Sud,2012.0,,SS,728.0
+5304,,South-eastern Asia,,,,,35.0
+5104,,Southern Africa,,,,,18.0
+5303,,Southern Asia,,,,,34.0
+5403,,Southern Europe,,,,,39.0
+203,ESP,Spain,Espagne,,,ES,724.0
+38,LKA,Sri Lanka,Sri Lanka,,,LK,144.0
+420,,Sub-Saharan Africa,,,,,202.0
+5810,,Sub-Saharan Africa (including Sudan),,,,,738.0
+276,SDN,Sudan,Soudan,2012.0,,SD,729.0
+206,,Sudan (former),,,2011.0,SD,736.0
+207,SUR,Suriname,Suriname,,,SR,740.0
+260,SJM,Svalbard and Jan Mayen Islands,,,,SJ,744.0
+210,SWE,Sweden,Suède,,,SE,752.0
+211,CHE,Switzerland,Suisse,,,CH,756.0
+212,SYR,Syrian Arab Republic,République arabe syrienne,,,SY,760.0
+208,TJK,Tajikistan,Tadjikistan,1992.0,,TJ,762.0
+216,THA,Thailand,Thaïlande,,,TH,764.0
+176,TLS,Timor-Leste,Timor-Leste,,,TL,626.0
+217,TGO,Togo,Togo,,,TG,768.0
+218,TKL,Tokelau,,,,TK,772.0
+219,TON,Tonga,Tonga,,,TO,776.0
+220,TTO,Trinidad and Tobago,Trinité-et-Tobago,,,TT,780.0
+222,TUN,Tunisia,Tunisie,,,TN,788.0
+223,TUR,Turkey,Turquie,,,TR,792.0
+213,TKM,Turkmenistan,Turkménistan,1992.0,,TM,795.0
+224,TCA,Turks and Caicos Islands,Îles Turques-et-Caïques,,,TC,796.0
+227,TUV,Tuvalu,Tuvalu,,,TV,798.0
+226,UGA,Uganda,Ouganda,,,UG,800.0
+230,UKR,Ukraine,Ukraine,1992.0,,UA,804.0
+225,ARE,United Arab Emirates,Émirats arabes unis,,,AE,784.0
+229,GBR,United Kingdom of Great Britain and Northern Ireland,Royaume-Uni,,,GB,826.0
+215,TZA,United Republic of Tanzania,Tanzanie,,,TZ,834.0
+232,UMI,United States Minor Outlying Islands,,,,UM,581.0
+231,USA,United States of America,États-Unis,,,US,840.0
+240,VIR,United States Virgin Islands,Îles Vierges (EU),,,VI,850.0
+9011,,Upper-middle-income economies,,,,,
+234,URY,Uruguay,Uruguay,,,UY,858.0
+228,,USSR,,,1991.0,,810.0
+235,UZB,Uzbekistan,Ouzbékistan,1992.0,,UZ,860.0
+155,VUT,Vanuatu,Vanuatu,,,VU,548.0
+236,VEN,Venezuela (Bolivarian Republic of),Venezuela,,,VE,862.0
+237,VNM,Viet Nam,Viet Nam,,,VN,704.0
+242,WAK,Wake Island,,,,WK,872.0
+243,WLF,Wallis and Futuna Islands,,,,WF,876.0
+5105,,Western Africa,,,,,11.0
+5305,,Western Asia,,,,,145.0
+5308,,Western Asia and Northern Africa,,,,,
+5404,,Western Europe,,,,,155.0
+205,ESH,Western Sahara,,,,EH,732.0
+5000,X01,World,,,,,1.0
+249,YEM,Yemen,"Yémen, Rép. du",,,YE,887.0
+246,,Yemen Ar Rp,,,,,886.0
+247,,Yemen Dem,,,,,720.0
+248,,Yugoslav SFR,,,1991.0,,890.0
+251,ZMB,Zambia,Zambie,,,ZM,894.0
+181,ZWE,Zimbabwe,Zimbabwe,,,ZW,716.0

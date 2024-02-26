@@ -1,0 +1,269 @@
+Country Code,ISO3,Country Name eng,Country Name fr,Unnamed: 4,Region,Income_Group
+22.0,ABW,Aruba,Aruba,,,Revenu élevé
+,AFE,,,,,Agrégats
+2.0,AFG,Afghanistan,Afghanistan,,Asie du Sud,Faible revenu
+,AFW,,,,,Agrégats
+7.0,AGO,Angola,Angola,,Afrique subsaharienne (hors revenu élevé),"Revenu intermédiaire, tranche inférieure"
+3.0,ALB,Albania,Albanie,,Europe et Asie centrale (hors revenu élevé),"Revenu intermédiaire, tranche supérieure"
+6.0,AND,Andorra,Andorre,,,Revenu élevé
+,ARB,,Le monde arabe,,,Agrégats
+225.0,ARE,United Arab Emirates,Émirats arabes unis,,,Revenu élevé
+9.0,ARG,Argentina,Argentine,,Amérique latine et Caraïbes (hors revenu élevé),"Revenu intermédiaire, tranche supérieure"
+1.0,ARM,Armenia,Arménie,,Europe et Asie centrale (hors revenu élevé),"Revenu intermédiaire, tranche supérieure"
+5.0,ASM,American Samoa,Samoa américaines,,,Revenu élevé
+8.0,ATG,Antigua and Barbuda,Antigua-et-Barbuda,,,Revenu élevé
+10.0,AUS,Australia,Australie,,,Revenu élevé
+11.0,AUT,Austria,Autriche,,,Revenu élevé
+52.0,AZE,Azerbaijan,Azerbaïdjan,,Europe et Asie centrale (hors revenu élevé),"Revenu intermédiaire, tranche supérieure"
+29.0,BDI,Burundi,Burundi,,Afrique subsaharienne (hors revenu élevé),Faible revenu
+255.0,BEL,Belgium,Belgique,,,Revenu élevé
+53.0,BEN,Benin,Bénin,,Afrique subsaharienne (hors revenu élevé),"Revenu intermédiaire, tranche inférieure"
+233.0,BFA,Burkina Faso,Burkina Faso,,Afrique subsaharienne (hors revenu élevé),Faible revenu
+16.0,BGD,Bangladesh,Bangladesh,,Asie du Sud,"Revenu intermédiaire, tranche inférieure"
+27.0,BGR,Bulgaria,Bulgarie,,Europe et Asie centrale (hors revenu élevé),"Revenu intermédiaire, tranche supérieure"
+13.0,BHR,Bahrain,Bahreïn,,,Revenu élevé
+12.0,BHS,Bahamas,Bahamas,,,Revenu élevé
+80.0,BIH,Bosnia and Herzegovina,Bosnie-Herzégovine,,Europe et Asie centrale (hors revenu élevé),"Revenu intermédiaire, tranche supérieure"
+57.0,BLR,Belarus,Bélarus,,Europe et Asie centrale (hors revenu élevé),"Revenu intermédiaire, tranche supérieure"
+23.0,BLZ,Belize,Belize,,Amérique latine et Caraïbes (hors revenu élevé),"Revenu intermédiaire, tranche supérieure"
+17.0,BMU,Bermuda,Bermudes,,,Revenu élevé
+19.0,BOL,Bolivia (Plurinational State of),Bolivie,,Amérique latine et Caraïbes (hors revenu élevé),"Revenu intermédiaire, tranche inférieure"
+21.0,BRA,Brazil,Brésil,,Amérique latine et Caraïbes (hors revenu élevé),"Revenu intermédiaire, tranche supérieure"
+14.0,BRB,Barbados,Barbade,,,Revenu élevé
+26.0,BRN,Brunei Darussalam,Brunéi Darussalam,,,Revenu élevé
+18.0,BTN,Bhutan,Bhoutan,,Asie du Sud,"Revenu intermédiaire, tranche inférieure"
+20.0,BWA,Botswana,Botswana,,Afrique subsaharienne (hors revenu élevé),"Revenu intermédiaire, tranche supérieure"
+37.0,CAF,Central African Republic,République centrafricaine,,Afrique subsaharienne (hors revenu élevé),Faible revenu
+33.0,CAN,Canada,Canada,,,Revenu élevé
+,CEB,,"Europe centrale et les pays baltes
+",,,Agrégats
+211.0,CHE,Switzerland,Suisse,,,Revenu élevé
+,CHI,,Îles Anglo-Normandes,,,Revenu élevé
+40.0,CHL,Chile,Chili,,,Revenu élevé
+351.0,CHN,China,Chine,,Asie de l’Est et Pacifique (hors revenu élevé),"Revenu intermédiaire, tranche supérieure"
+107.0,CIV,Côte d'Ivoire,Côte d'Ivoire,,Afrique subsaharienne (hors revenu élevé),"Revenu intermédiaire, tranche inférieure"
+32.0,CMR,Cameroon,Cameroun,,Afrique subsaharienne (hors revenu élevé),"Revenu intermédiaire, tranche inférieure"
+250.0,COD,Democratic Republic of the Congo,"Congo, République démocratique du",,Afrique subsaharienne (hors revenu élevé),Faible revenu
+46.0,COG,Congo,"Congo, République du",,Afrique subsaharienne (hors revenu élevé),"Revenu intermédiaire, tranche inférieure"
+44.0,COL,Colombia,Colombie,,Amérique latine et Caraïbes (hors revenu élevé),"Revenu intermédiaire, tranche supérieure"
+45.0,COM,Comoros,Comores,,Afrique subsaharienne (hors revenu élevé),"Revenu intermédiaire, tranche inférieure"
+35.0,CPV,Cabo Verde,Cabo Verde ,,Afrique subsaharienne (hors revenu élevé),"Revenu intermédiaire, tranche inférieure"
+48.0,CRI,Costa Rica,Costa Rica,,Amérique latine et Caraïbes (hors revenu élevé),"Revenu intermédiaire, tranche supérieure"
+,CSS,,Petits états des Caraïbes,,,Agrégats
+49.0,CUB,Cuba,Cuba,,Amérique latine et Caraïbes (hors revenu élevé),"Revenu intermédiaire, tranche supérieure"
+279.0,CUW,Curaçao,Curacao,,,Revenu élevé
+36.0,CYM,Cayman Islands,Îles Caïmans,,,Revenu élevé
+50.0,CYP,Cyprus,Chypre,,,Revenu élevé
+167.0,CZE,Czechia,République tchèque,,,Revenu élevé
+79.0,DEU,Germany,Allemagne,,,Revenu élevé
+72.0,DJI,Djibouti,Djibouti,,Afrique du Nord et Moyen-Orient (hors revenu élevé),"Revenu intermédiaire, tranche inférieure"
+55.0,DMA,Dominica,Dominique,,Amérique latine et Caraïbes (hors revenu élevé),"Revenu intermédiaire, tranche supérieure"
+54.0,DNK,Denmark,Danemark,,,Revenu élevé
+56.0,DOM,Dominican Republic,République dominicaine,,Amérique latine et Caraïbes (hors revenu élevé),"Revenu intermédiaire, tranche supérieure"
+4.0,DZA,Algeria,Algérie,,Afrique du Nord et Moyen-Orient (hors revenu élevé),"Revenu intermédiaire, tranche inférieure"
+,EAP,,Asie de l’Est et Pacifique (hors revenu élevé),,,Agrégats
+,EAR,,de dividende précoce démographique,,,Agrégats
+,EAS,,Asie de l’Est et Pacifique,,,Agrégats
+,ECA,,Europe et Asie centrale (hors revenu élevé),,,Agrégats
+,ECS,,Europe et Asie centrale,,,Agrégats
+58.0,ECU,Ecuador,Équateur,,Amérique latine et Caraïbes (hors revenu élevé),"Revenu intermédiaire, tranche supérieure"
+59.0,EGY,Egypt,"Égypte, République arabe d’",,Afrique du Nord et Moyen-Orient (hors revenu élevé),"Revenu intermédiaire, tranche inférieure"
+,EMU,,Zone euro,,,Agrégats
+178.0,ERI,Eritrea,Érythrée,,Afrique subsaharienne (hors revenu élevé),Faible revenu
+203.0,ESP,Spain,Espagne,,,Revenu élevé
+63.0,EST,Estonia,Estonie,,,Revenu élevé
+238.0,ETH,Ethiopia,Éthiopie,,Afrique subsaharienne (hors revenu élevé),Faible revenu
+,EUU,,Union européenne,,,Agrégats
+,FCS,,"Fragile et les situations de conflit touchées
+",,,Agrégats
+67.0,FIN,Finland,Finlande,,,Revenu élevé
+66.0,FJI,Fiji,Fidji,,Asie de l’Est et Pacifique (hors revenu élevé),"Revenu intermédiaire, tranche supérieure"
+68.0,FRA,France,France,,,Revenu élevé
+64.0,FRO,Faroe Islands,Îles Féroé,,,Revenu élevé
+145.0,FSM,Micronesia (Federated States of),"Micronésie, États fédérés de",,Asie de l’Est et Pacifique (hors revenu élevé),"Revenu intermédiaire, tranche inférieure"
+74.0,GAB,Gabon,Gabon,,Afrique subsaharienne (hors revenu élevé),"Revenu intermédiaire, tranche supérieure"
+229.0,GBR,United Kingdom of Great Britain and Northern Ireland,Royaume-Uni,,,Revenu élevé
+73.0,GEO,Georgia,Géorgie,,Europe et Asie centrale (hors revenu élevé),"Revenu intermédiaire, tranche supérieure"
+81.0,GHA,Ghana,Ghana,,Afrique subsaharienne (hors revenu élevé),"Revenu intermédiaire, tranche inférieure"
+82.0,GIB,Gibraltar,Gibraltar,,,Revenu élevé
+90.0,GIN,Guinea,Guinée,,Afrique subsaharienne (hors revenu élevé),"Revenu intermédiaire, tranche inférieure"
+75.0,GMB,Gambia,Gambie,,Afrique subsaharienne (hors revenu élevé),Faible revenu
+175.0,GNB,Guinea-Bissau,Guinée-Bissau,,Afrique subsaharienne (hors revenu élevé),Faible revenu
+61.0,GNQ,Equatorial Guinea,Guinée équatoriale,,Afrique subsaharienne (hors revenu élevé),"Revenu intermédiaire, tranche supérieure"
+84.0,GRC,Greece,Grèce,,,Revenu élevé
+86.0,GRD,Grenada,Grenade,,Amérique latine et Caraïbes (hors revenu élevé),"Revenu intermédiaire, tranche supérieure"
+85.0,GRL,Greenland,Groenland,,,Revenu élevé
+89.0,GTM,Guatemala,Guatemala,,Amérique latine et Caraïbes (hors revenu élevé),"Revenu intermédiaire, tranche supérieure"
+88.0,GUM,Guam,Guam,,,Revenu élevé
+91.0,GUY,Guyana,Guyana,,,Revenu élevé
+,HIC,,Revenu élevé,,,Agrégats
+96.0,HKG,"China, Hong Kong SAR","Chine, RAS de Hong Kong",,,Revenu élevé
+95.0,HND,Honduras,Honduras,,Amérique latine et Caraïbes (hors revenu élevé),"Revenu intermédiaire, tranche inférieure"
+,HPC,,Pays pauvres très endettés (PPTE),,,Agrégats
+98.0,HRV,Croatia,Croatie,,,Revenu élevé
+93.0,HTI,Haiti,Haïti,,Amérique latine et Caraïbes (hors revenu élevé),"Revenu intermédiaire, tranche inférieure"
+97.0,HUN,Hungary,Hongrie,,,Revenu élevé
+,IBD,,BIRD seulement,,,Agrégats
+,IBT,,BIRD et IDA,,,Agrégats
+,IDA,,IDA totale,,,Agrégats
+,IDB,,IDA mélange,,,Agrégats
+101.0,IDN,Indonesia,Indonésie,,Asie de l’Est et Pacifique (hors revenu élevé),"Revenu intermédiaire, tranche supérieure"
+,IDX,,IDA seulement,,,Agrégats
+264.0,IMN,Isle of Man,Île de Man,,,Revenu élevé
+100.0,IND,India,Inde,,Asie du Sud,"Revenu intermédiaire, tranche inférieure"
+,INX,,Non classifié,,,Agrégats
+104.0,IRL,Ireland,Irlande,,,Revenu élevé
+102.0,IRN,Iran (Islamic Republic of),"Iran, République islamique d’",,Afrique du Nord et Moyen-Orient (hors revenu élevé),"Revenu intermédiaire, tranche inférieure"
+103.0,IRQ,Iraq,Iraq,,Afrique du Nord et Moyen-Orient (hors revenu élevé),"Revenu intermédiaire, tranche supérieure"
+99.0,ISL,Iceland,Islande,,,Revenu élevé
+105.0,ISR,Israel,Israël,,,Revenu élevé
+106.0,ITA,Italy,Italie,,,Revenu élevé
+109.0,JAM,Jamaica,Jamaïque,,Amérique latine et Caraïbes (hors revenu élevé),"Revenu intermédiaire, tranche supérieure"
+112.0,JOR,Jordan,Jordanie,,Afrique du Nord et Moyen-Orient (hors revenu élevé),"Revenu intermédiaire, tranche inférieure"
+110.0,JPN,Japan,Japon,,,Revenu élevé
+108.0,KAZ,Kazakhstan,Kazakhstan,,Europe et Asie centrale (hors revenu élevé),"Revenu intermédiaire, tranche supérieure"
+114.0,KEN,Kenya,Kenya,,Afrique subsaharienne (hors revenu élevé),"Revenu intermédiaire, tranche inférieure"
+113.0,KGZ,Kyrgyzstan,République kirghize,,Europe et Asie centrale (hors revenu élevé),"Revenu intermédiaire, tranche inférieure"
+115.0,KHM,Cambodia,Cambodge,,Asie de l’Est et Pacifique (hors revenu élevé),"Revenu intermédiaire, tranche inférieure"
+83.0,KIR,Kiribati,Kiribati,,Asie de l’Est et Pacifique (hors revenu élevé),"Revenu intermédiaire, tranche inférieure"
+188.0,KNA,Saint Kitts and Nevis,Saint-Kitts-et-Nevis,,,Revenu élevé
+117.0,KOR,Republic of Korea,"Corée, République de",,,Revenu élevé
+118.0,KWT,Kuwait,Koweït,,,Revenu élevé
+,LAC,,Amérique latine et Caraïbes (hors revenu élevé),,,Agrégats
+120.0,LAO,Lao People's Democratic Republic,République démocratique populaire lao,,Asie de l’Est et Pacifique (hors revenu élevé),"Revenu intermédiaire, tranche inférieure"
+121.0,LBN,Lebanon,Liban,,Afrique du Nord et Moyen-Orient (hors revenu élevé),"Revenu intermédiaire, tranche inférieure"
+123.0,LBR,Liberia,Libéria,,Afrique subsaharienne (hors revenu élevé),Faible revenu
+124.0,LBY,Libya,Libye,,Afrique du Nord et Moyen-Orient (hors revenu élevé),"Revenu intermédiaire, tranche supérieure"
+189.0,LCA,Saint Lucia,Sainte-Lucie,,Amérique latine et Caraïbes (hors revenu élevé),"Revenu intermédiaire, tranche supérieure"
+,LCN,,Amérique latine et Caraïbes,,,Agrégats
+,LDC,,Pays les moins avancés: classement de l’ONU,,,Agrégats
+,LIC,,Faible revenu,,,Agrégats
+125.0,LIE,Liechtenstein,Liechtenstein,,,Revenu élevé
+38.0,LKA,Sri Lanka,Sri Lanka,,Asie du Sud,"Revenu intermédiaire, tranche inférieure"
+,LMC,,"Revenu intermédiaire, tranche inférieure",,,Agrégats
+,LMY,,Revenu faible et intermédiaire,,,Agrégats
+122.0,LSO,Lesotho,Lesotho,,Afrique subsaharienne (hors revenu élevé),"Revenu intermédiaire, tranche inférieure"
+,LTE,,de dividende tardif démographique,,,Agrégats
+126.0,LTU,Lithuania,Lituanie,,,Revenu élevé
+256.0,LUX,Luxembourg,Luxembourg,,,Revenu élevé
+119.0,LVA,Latvia,Lettonie,,,Revenu élevé
+128.0,MAC,"China, Macao SAR","Région administrative spéciale de Macao, Chine",,,Revenu élevé
+281.0,MAF,Saint-Martin (French part),Saint-Martin (fr),,,Revenu élevé
+143.0,MAR,Morocco,Maroc,,Afrique du Nord et Moyen-Orient (hors revenu élevé),"Revenu intermédiaire, tranche inférieure"
+140.0,MCO,Monaco,Monaco,,,Revenu élevé
+146.0,MDA,Republic of Moldova,Moldova,,Europe et Asie centrale (hors revenu élevé),"Revenu intermédiaire, tranche supérieure"
+129.0,MDG,Madagascar,Madagascar,,Afrique subsaharienne (hors revenu élevé),Faible revenu
+132.0,MDV,Maldives,Maldives,,Asie du Sud,"Revenu intermédiaire, tranche supérieure"
+,MEA,,Afrique du Nord et Moyen-Orient,,,Agrégats
+138.0,MEX,Mexico,Mexique,,Amérique latine et Caraïbes (hors revenu élevé),"Revenu intermédiaire, tranche supérieure"
+127.0,MHL,Marshall Islands,Îles Marshall,,Asie de l’Est et Pacifique (hors revenu élevé),"Revenu intermédiaire, tranche supérieure"
+,MIC,,Revenu intermédiaire,,,Agrégats
+154.0,MKD,North Macedonia,Macédoine du Nord,,Europe et Asie centrale (hors revenu élevé),"Revenu intermédiaire, tranche supérieure"
+133.0,MLI,Mali,Mali,,Afrique subsaharienne (hors revenu élevé),Faible revenu
+134.0,MLT,Malta,Malte,,,Revenu élevé
+28.0,MMR,Myanmar,Myanmar,,Asie de l’Est et Pacifique (hors revenu élevé),"Revenu intermédiaire, tranche inférieure"
+,MNA,,Afrique du Nord et Moyen-Orient (hors revenu élevé),,,Agrégats
+273.0,MNE,Montenegro,Monténégro,,Europe et Asie centrale (hors revenu élevé),"Revenu intermédiaire, tranche supérieure"
+141.0,MNG,Mongolia,Mongolie,,Asie de l’Est et Pacifique (hors revenu élevé),"Revenu intermédiaire, tranche inférieure"
+163.0,MNP,Northern Mariana Islands,Mariannes,,,Revenu élevé
+144.0,MOZ,Mozambique,Mozambique,,Afrique subsaharienne (hors revenu élevé),Faible revenu
+136.0,MRT,Mauritania,Mauritanie,,Afrique subsaharienne (hors revenu élevé),"Revenu intermédiaire, tranche inférieure"
+137.0,MUS,Mauritius,Maurice,,Afrique subsaharienne (hors revenu élevé),"Revenu intermédiaire, tranche supérieure"
+130.0,MWI,Malawi,Malawi,,Afrique subsaharienne (hors revenu élevé),Faible revenu
+131.0,MYS,Malaysia,Malaisie,,Asie de l’Est et Pacifique (hors revenu élevé),"Revenu intermédiaire, tranche supérieure"
+,NAC,,Amérique du Nord,,,Agrégats
+147.0,NAM,Namibia,Namibie,,Afrique subsaharienne (hors revenu élevé),"Revenu intermédiaire, tranche supérieure"
+153.0,NCL,New Caledonia,Nouvelle-Calédonie,,,Revenu élevé
+158.0,NER,Niger,Niger,,Afrique subsaharienne (hors revenu élevé),Faible revenu
+159.0,NGA,Nigeria,Nigéria,,Afrique subsaharienne (hors revenu élevé),"Revenu intermédiaire, tranche inférieure"
+157.0,NIC,Nicaragua,Nicaragua,,Amérique latine et Caraïbes (hors revenu élevé),"Revenu intermédiaire, tranche inférieure"
+150.0,NLD,Netherlands,Pays-Bas,,,Revenu élevé
+162.0,NOR,Norway,Norvège,,,Revenu élevé
+149.0,NPL,Nepal,Népal,,Asie du Sud,"Revenu intermédiaire, tranche inférieure"
+148.0,NRU,Nauru,Nauru,,,Revenu élevé
+156.0,NZL,New Zealand,Nouvelle-Zélande,,,Revenu élevé
+,OED,,Pays membres de l'OCDE,,,Agrégats
+221.0,OMN,Oman,Oman,,,Revenu élevé
+,OSS,,Autres petits états,,,Agrégats
+165.0,PAK,Pakistan,Pakistan,,Asie du Sud,"Revenu intermédiaire, tranche inférieure"
+166.0,PAN,Panama,Panama,,,Revenu élevé
+170.0,PER,Peru,Pérou,,Amérique latine et Caraïbes (hors revenu élevé),"Revenu intermédiaire, tranche supérieure"
+171.0,PHL,Philippines,Philippines,,Asie de l’Est et Pacifique (hors revenu élevé),"Revenu intermédiaire, tranche inférieure"
+180.0,PLW,Palau,Palaos,,Asie de l’Est et Pacifique (hors revenu élevé),"Revenu intermédiaire, tranche supérieure"
+168.0,PNG,Papua New Guinea,Papouasie-Nouvelle-Guinée,,Asie de l’Est et Pacifique (hors revenu élevé),"Revenu intermédiaire, tranche inférieure"
+173.0,POL,Poland,Pologne,,,Revenu élevé
+,PRE,,de Pré-dividende démographique,,,Agrégats
+177.0,PRI,Puerto Rico,Porto Rico,,,Revenu élevé
+116.0,PRK,Democratic People's Republic of Korea,"Corée, République démocratique de",,Asie de l’Est et Pacifique (hors revenu élevé),Faible revenu
+174.0,PRT,Portugal,Portugal,,,Revenu élevé
+169.0,PRY,Paraguay,Paraguay,,Amérique latine et Caraïbes (hors revenu élevé),"Revenu intermédiaire, tranche supérieure"
+299.0,PSE,Palestine,Cisjordanie et Gaza,,Afrique du Nord et Moyen-Orient (hors revenu élevé),"Revenu intermédiaire, tranche supérieure"
+,PSS,,Petits états insulaires du Pacifique,,,Agrégats
+,PST,,de Post-dividende démographique,,,Agrégats
+70.0,PYF,French Polynesia,Polynésie française,,,Revenu élevé
+179.0,QAT,Qatar,Qatar,,,Revenu élevé
+183.0,ROU,Romania,Roumanie,,,Revenu élevé
+185.0,RUS,Russian Federation,Fédération de Russie,,Europe et Asie centrale (hors revenu élevé),"Revenu intermédiaire, tranche supérieure"
+184.0,RWA,Rwanda,Rwanda,,Afrique subsaharienne (hors revenu élevé),Faible revenu
+,SAS,,Asie du Sud,,,Agrégats
+194.0,SAU,Saudi Arabia,Arabie saoudite,,,Revenu élevé
+276.0,SDN,Sudan,Soudan,,Afrique subsaharienne (hors revenu élevé),Faible revenu
+195.0,SEN,Senegal,Sénégal,,Afrique subsaharienne (hors revenu élevé),"Revenu intermédiaire, tranche inférieure"
+200.0,SGP,Singapore,Singapour,,,Revenu élevé
+25.0,SLB,Solomon Islands,Îles Salomon,,Asie de l’Est et Pacifique (hors revenu élevé),"Revenu intermédiaire, tranche inférieure"
+197.0,SLE,Sierra Leone,Sierra Leone,,Afrique subsaharienne (hors revenu élevé),Faible revenu
+60.0,SLV,El Salvador,El Salvador,,Amérique latine et Caraïbes (hors revenu élevé),"Revenu intermédiaire, tranche supérieure"
+192.0,SMR,San Marino,Saint-Marin,,,Revenu élevé
+201.0,SOM,Somalia,Somalie,,Afrique subsaharienne (hors revenu élevé),Faible revenu
+272.0,SRB,Serbia,Serbie,,Europe et Asie centrale (hors revenu élevé),"Revenu intermédiaire, tranche supérieure"
+,SSA,,Afrique subsaharienne (hors revenu élevé),,,Agrégats
+277.0,SSD,South Sudan,Soudan du Sud,,Afrique subsaharienne (hors revenu élevé),Faible revenu
+,SSF,,Afrique subsaharienne,,,Agrégats
+,SST,,Petits états,,,Agrégats
+193.0,STP,Sao Tome and Principe,Sao Tomé-et-Principe,,Afrique subsaharienne (hors revenu élevé),"Revenu intermédiaire, tranche inférieure"
+207.0,SUR,Suriname,Suriname,,Amérique latine et Caraïbes (hors revenu élevé),"Revenu intermédiaire, tranche supérieure"
+199.0,SVK,Slovakia,République slovaque,,,Revenu élevé
+198.0,SVN,Slovenia,Slovénie,,,Revenu élevé
+210.0,SWE,Sweden,Suède,,,Revenu élevé
+209.0,SWZ,Eswatini,Eswatini,,Afrique subsaharienne (hors revenu élevé),"Revenu intermédiaire, tranche inférieure"
+280.0,SXM,Sint Maarten (Dutch part),Sint Maarten (Dutch part),,,Revenu élevé
+196.0,SYC,Seychelles,Seychelles,,,Revenu élevé
+212.0,SYR,Syrian Arab Republic,République arabe syrienne,,Afrique du Nord et Moyen-Orient (hors revenu élevé),Faible revenu
+224.0,TCA,Turks and Caicos Islands,Îles Turques-et-Caïques,,,Revenu élevé
+39.0,TCD,Chad,Tchad,,Afrique subsaharienne (hors revenu élevé),Faible revenu
+,TEA,,Asie de l’Est et Pacifique (BIRD et IDA),,,Agrégats
+,TEC,,Europe et Asie centrale (BIRD et IDA),,,Agrégats
+217.0,TGO,Togo,Togo,,Afrique subsaharienne (hors revenu élevé),Faible revenu
+216.0,THA,Thailand,Thaïlande,,Asie de l’Est et Pacifique (hors revenu élevé),"Revenu intermédiaire, tranche supérieure"
+208.0,TJK,Tajikistan,Tadjikistan,,Europe et Asie centrale (hors revenu élevé),"Revenu intermédiaire, tranche inférieure"
+213.0,TKM,Turkmenistan,Turkménistan,,Europe et Asie centrale (hors revenu élevé),"Revenu intermédiaire, tranche supérieure"
+,TLA,,Amérique latine et Caraïbes (BIRD et IDA),,,Agrégats
+176.0,TLS,Timor-Leste,Timor-Leste,,Asie de l’Est et Pacifique (hors revenu élevé),"Revenu intermédiaire, tranche inférieure"
+,TMN,,Afrique du Nord et Moyen-Orient (BIRD et IDA),,,Agrégats
+219.0,TON,Tonga,Tonga,,Asie de l’Est et Pacifique (hors revenu élevé),"Revenu intermédiaire, tranche supérieure"
+,TSA,,Asie du Sud (BIRD et IDA),,,Agrégats
+,TSS,,Afrique subsaharienne (BIRD et IDA),,,Agrégats
+220.0,TTO,Trinidad and Tobago,Trinité-et-Tobago,,,Revenu élevé
+222.0,TUN,Tunisia,Tunisie,,Afrique du Nord et Moyen-Orient (hors revenu élevé),"Revenu intermédiaire, tranche inférieure"
+223.0,TUR,Turkey,Turquie,,Europe et Asie centrale (hors revenu élevé),"Revenu intermédiaire, tranche supérieure"
+227.0,TUV,Tuvalu,Tuvalu,,Asie de l’Est et Pacifique (hors revenu élevé),"Revenu intermédiaire, tranche supérieure"
+215.0,TZA,United Republic of Tanzania,Tanzanie,,Afrique subsaharienne (hors revenu élevé),"Revenu intermédiaire, tranche inférieure"
+226.0,UGA,Uganda,Ouganda,,Afrique subsaharienne (hors revenu élevé),Faible revenu
+230.0,UKR,Ukraine,Ukraine,,Europe et Asie centrale (hors revenu élevé),"Revenu intermédiaire, tranche inférieure"
+,UMC,,"Revenu intermédiaire, tranche supérieure",,,Agrégats
+234.0,URY,Uruguay,Uruguay,,,Revenu élevé
+231.0,USA,United States of America,États-Unis,,,Revenu élevé
+235.0,UZB,Uzbekistan,Ouzbékistan,,Europe et Asie centrale (hors revenu élevé),"Revenu intermédiaire, tranche inférieure"
+191.0,VCT,Saint Vincent and the Grenadines,Saint-Vincent-et-les Grenadines,,Amérique latine et Caraïbes (hors revenu élevé),"Revenu intermédiaire, tranche supérieure"
+236.0,VEN,Venezuela (Bolivarian Republic of),Venezuela,,,Non classifié
+239.0,VGB,British Virgin Islands,Îles Vierges britanniques,,,Revenu élevé
+240.0,VIR,United States Virgin Islands,Îles Vierges (EU),,,Revenu élevé
+237.0,VNM,Viet Nam,Viet Nam,,Asie de l’Est et Pacifique (hors revenu élevé),"Revenu intermédiaire, tranche inférieure"
+155.0,VUT,Vanuatu,Vanuatu,,Asie de l’Est et Pacifique (hors revenu élevé),"Revenu intermédiaire, tranche inférieure"
+,WLD,,Monde,,,Agrégats
+244.0,WSM,Samoa,Samoa,,Asie de l’Est et Pacifique (hors revenu élevé),"Revenu intermédiaire, tranche inférieure"
+,XKX,,Kosovo,,Europe et Asie centrale (hors revenu élevé),"Revenu intermédiaire, tranche supérieure"
+249.0,YEM,Yemen,"Yémen, Rép. du",,Afrique du Nord et Moyen-Orient (hors revenu élevé),Faible revenu
+202.0,ZAF,South Africa,Afrique du Sud,,Afrique subsaharienne (hors revenu élevé),"Revenu intermédiaire, tranche supérieure"
+251.0,ZMB,Zambia,Zambie,,Afrique subsaharienne (hors revenu élevé),"Revenu intermédiaire, tranche inférieure"
+181.0,ZWE,Zimbabwe,Zimbabwe,,Afrique subsaharienne (hors revenu élevé),"Revenu intermédiaire, tranche inférieure"

@@ -1,0 +1,322 @@
+ISO3,Country Name,Country Name FR,Country Code
+1,Armenia,Arménie,ARM
+2,Afghanistan,Afghanistan,AFG
+3,Albania,Albanie,ALB
+4,Algeria,Algérie,DZA
+5,American Samoa,Samoa américaines,ASM
+6,Andorra,Andorre,AND
+7,Angola,Angola,AGO
+8,Antigua and Barbuda,Antigua-et-Barbuda,ATG
+9,Argentina,Argentine,ARG
+10,Australia,Australie,AUS
+11,Austria,Autriche,AUT
+12,Bahamas,Bahamas,BHS
+13,Bahrain,Bahreïn,BHR
+14,Barbados,Barbade,BRB
+15,Belgium-Luxembourg,,
+16,Bangladesh,Bangladesh,BGD
+17,Bermuda,Bermudes,BMU
+18,Bhutan,Bhoutan,BTN
+19,Bolivia (Plurinational State of),Bolivie,BOL
+20,Botswana,Botswana,BWA
+21,Brazil,Brésil,BRA
+22,Aruba,Aruba,ABW
+23,Belize,Belize,BLZ
+24,British Indian Ocean Territory,,IOT
+25,Solomon Islands,Îles Salomon,SLB
+26,Brunei Darussalam,Brunéi Darussalam,BRN
+27,Bulgaria,Bulgarie,BGR
+28,Myanmar,Myanmar,MMR
+29,Burundi,Burundi,BDI
+30,Antarctica,,ATA
+31,Bouvet Island,,BVT
+32,Cameroon,Cameroun,CMR
+33,Canada,Canada,CAN
+35,Cabo Verde,Cabo Verde,CPV
+36,Cayman Islands,Îles Caïmans,CYM
+37,Central African Republic,République centrafricaine,CAF
+38,Sri Lanka,Sri Lanka,LKA
+39,Chad,Tchad,TCD
+40,Chile,Chili,CHL
+41,"China, mainland",,
+42,Christmas Island,,CXR
+43,Cocos (Keeling) Islands,,CCK
+44,Colombia,Colombie,COL
+45,Comoros,Comores,COM
+46,Congo,"Congo, République du",COG
+47,Cook Islands,,COK
+48,Costa Rica,Costa Rica,CRI
+49,Cuba,Cuba,CUB
+50,Cyprus,Chypre,CYP
+51,Czechoslovakia,,
+52,Azerbaijan,Azerbaïdjan,AZE
+53,Benin,Bénin,BEN
+54,Denmark,Danemark,DNK
+55,Dominica,Dominique,DMA
+56,Dominican Republic,République dominicaine,DOM
+57,Belarus,Bélarus,BLR
+58,Ecuador,Équateur,ECU
+59,Egypt,"Égypte, République arabe d’",EGY
+60,El Salvador,El Salvador,SLV
+61,Equatorial Guinea,Guinée équatoriale,GNQ
+62,Ethiopia PDR,,
+63,Estonia,Estonie,EST
+64,Faroe Islands,Îles Féroé,FRO
+65,Falkland Islands (Malvinas),,FLK
+66,Fiji,Fidji,FJI
+67,Finland,Finlande,FIN
+68,France,France,FRA
+69,French Guyana,,GUF
+70,French Polynesia,Polynésie française,PYF
+71,French Southern Territories,,ATF
+72,Djibouti,Djibouti,DJI
+73,Georgia,Géorgie,GEO
+74,Gabon,Gabon,GAB
+75,Gambia,Gambie,GMB
+77,Germany Nl,,
+78,Germany Fr,,
+79,Germany,Allemagne,DEU
+80,Bosnia and Herzegovina,Bosnie-Herzégovine,BIH
+81,Ghana,Ghana,GHA
+82,Gibraltar,Gibraltar,GIB
+83,Kiribati,Kiribati,KIR
+84,Greece,Grèce,GRC
+85,Greenland,Groenland,GRL
+86,Grenada,Grenade,GRD
+87,Guadeloupe,,GLP
+88,Guam,Guam,GUM
+89,Guatemala,Guatemala,GTM
+90,Guinea,Guinée,GIN
+91,Guyana,Guyana,GUY
+92,Heard and McDonald Islands,,HMD
+93,Haiti,Haïti,HTI
+94,Holy See,,VAT
+95,Honduras,Honduras,HND
+96,"China, Hong Kong SAR","Chine, RAS de Hong Kong",HKG
+97,Hungary,Hongrie,HUN
+98,Croatia,Croatie,HRV
+99,Iceland,Islande,ISL
+100,India,Inde,IND
+101,Indonesia,Indonésie,IDN
+102,Iran (Islamic Republic of),"Iran, République islamique d’",IRN
+103,Iraq,Iraq,IRQ
+104,Ireland,Irlande,IRL
+105,Israel,Israël,ISR
+106,Italy,Italie,ITA
+107,Côte d'Ivoire,Côte d'Ivoire,CIV
+108,Kazakhstan,Kazakhstan,KAZ
+109,Jamaica,Jamaïque,JAM
+110,Japan,Japon,JPN
+111,Johnston Island,,JTN
+112,Jordan,Jordanie,JOR
+113,Kyrgyzstan,République kirghize,KGZ
+114,Kenya,Kenya,KEN
+115,Cambodia,Cambodge,KHM
+116,Democratic People's Republic of Korea,"Corée, République démocratique de",PRK
+117,Republic of Korea,"Corée, République de",KOR
+118,Kuwait,Koweït,KWT
+119,Latvia,Lettonie,LVA
+120,Lao People's Democratic Republic,République démocratique populaire lao,LAO
+121,Lebanon,Liban,LBN
+122,Lesotho,Lesotho,LSO
+123,Liberia,Libéria,LBR
+124,Libya,Libye,LBY
+125,Liechtenstein,Liechtenstein,LIE
+126,Lithuania,Lituanie,LTU
+127,Marshall Islands,Îles Marshall,MHL
+128,"China, Macao SAR","Région administrative spéciale de Macao, Chine",MAC
+129,Madagascar,Madagascar,MDG
+130,Malawi,Malawi,MWI
+131,Malaysia,Malaisie,MYS
+132,Maldives,Maldives,MDV
+133,Mali,Mali,MLI
+134,Malta,Malte,MLT
+135,Martinique,,MTQ
+136,Mauritania,Mauritanie,MRT
+137,Mauritius,Maurice,MUS
+138,Mexico,Mexique,MEX
+139,Midway Island,,MID
+140,Monaco,Monaco,MCO
+141,Mongolia,Mongolie,MNG
+142,Montserrat,,MSR
+143,Morocco,Maroc,MAR
+144,Mozambique,Mozambique,MOZ
+145,Micronesia (Federated States of),"Micronésie, États fédérés de",FSM
+146,Republic of Moldova,Moldova,MDA
+147,Namibia,Namibie,NAM
+148,Nauru,Nauru,NRU
+149,Nepal,Népal,NPL
+150,Netherlands,Pays-Bas,NLD
+151,Netherlands Antilles (former),,ANT
+153,New Caledonia,Nouvelle-Calédonie,NCL
+154,North Macedonia,Macédoine du Nord,MKD
+155,Vanuatu,Vanuatu,VUT
+156,New Zealand,Nouvelle-Zélande,NZL
+157,Nicaragua,Nicaragua,NIC
+158,Niger,Niger,NER
+159,Nigeria,Nigéria,NGA
+160,Niue,,NIU
+161,Norfolk Island,,NFK
+162,Norway,Norvège,NOR
+163,Northern Mariana Islands,Mariannes,MNP
+164,Pacific Islands Trust Territory,,
+165,Pakistan,Pakistan,PAK
+166,Panama,Panama,PAN
+167,Czechia,République tchèque,CZE
+168,Papua New Guinea,Papouasie-Nouvelle-Guinée,PNG
+169,Paraguay,Paraguay,PRY
+170,Peru,Pérou,PER
+171,Philippines,Philippines,PHL
+172,Pitcairn,,PCN
+173,Poland,Pologne,POL
+174,Portugal,Portugal,PRT
+175,Guinea-Bissau,Guinée-Bissau,GNB
+176,Timor-Leste,Timor-Leste,TLS
+177,Puerto Rico,Porto Rico,PRI
+178,Eritrea,Érythrée,ERI
+179,Qatar,Qatar,QAT
+180,Palau,Palaos,PLW
+181,Zimbabwe,Zimbabwe,ZWE
+182,Réunion,,REU
+183,Romania,Roumanie,ROU
+184,Rwanda,Rwanda,RWA
+185,Russian Federation,Fédération de Russie,RUS
+186,Serbia and Montenegro,,SCG
+187,"Saint Helena, Ascension and Tristan da Cunha",,SHN
+188,Saint Kitts and Nevis,Saint-Kitts-et-Nevis,KNA
+189,Saint Lucia,Sainte-Lucie,LCA
+190,Saint Pierre and Miquelon,,SPM
+191,Saint Vincent and the Grenadines,Saint-Vincent-et-les Grenadines,VCT
+192,San Marino,Saint-Marin,SMR
+193,Sao Tome and Principe,Sao Tomé-et-Principe,STP
+194,Saudi Arabia,Arabie saoudite,SAU
+195,Senegal,Sénégal,SEN
+196,Seychelles,Seychelles,SYC
+197,Sierra Leone,Sierra Leone,SLE
+198,Slovenia,Slovénie,SVN
+199,Slovakia,République slovaque,SVK
+200,Singapore,Singapour,SGP
+201,Somalia,Somalie,SOM
+202,South Africa,Afrique du Sud,ZAF
+203,Spain,Espagne,ESP
+205,Western Sahara,,ESH
+206,Sudan (former),,
+207,Suriname,Suriname,SUR
+208,Tajikistan,Tadjikistan,TJK
+209,Eswatini,Eswatini,SWZ
+210,Sweden,Suède,SWE
+211,Switzerland,Suisse,CHE
+212,Syrian Arab Republic,République arabe syrienne,SYR
+213,Turkmenistan,Turkménistan,TKM
+214,"China, Taiwan Province of",,TWN
+215,United Republic of Tanzania,Tanzanie,TZA
+216,Thailand,Thaïlande,THA
+217,Togo,Togo,TGO
+218,Tokelau,,TKL
+219,Tonga,Tonga,TON
+220,Trinidad and Tobago,Trinité-et-Tobago,TTO
+221,Oman,Oman,OMN
+222,Tunisia,Tunisie,TUN
+223,Turkey,Turquie,TUR
+224,Turks and Caicos Islands,Îles Turques-et-Caïques,TCA
+225,United Arab Emirates,Émirats arabes unis,ARE
+226,Uganda,Ouganda,UGA
+227,Tuvalu,Tuvalu,TUV
+228,USSR,,
+229,United Kingdom of Great Britain and Northern Ireland,Royaume-Uni,GBR
+230,Ukraine,Ukraine,UKR
+231,United States of America,États-Unis,USA
+232,United States Minor Outlying Islands,,UMI
+233,Burkina Faso,Burkina Faso,BFA
+234,Uruguay,Uruguay,URY
+235,Uzbekistan,Ouzbékistan,UZB
+236,Venezuela (Bolivarian Republic of),Venezuela,VEN
+237,Viet Nam,Viet Nam,VNM
+238,Ethiopia,Éthiopie,ETH
+239,British Virgin Islands,Îles Vierges britanniques,VGB
+240,United States Virgin Islands,Îles Vierges (EU),VIR
+242,Wake Island,,WAK
+243,Wallis and Futuna Islands,,WLF
+244,Samoa,Samoa,WSM
+246,Yemen Ar Rp,,
+247,Yemen Dem,,
+248,Yugoslav SFR,,
+249,Yemen,"Yémen, Rép. du",YEM
+250,Democratic Republic of the Congo,"Congo, République démocratique du",COD
+251,Zambia,Zambie,ZMB
+255,Belgium,Belgique,BEL
+256,Luxembourg,Luxembourg,LUX
+258,Anguilla,,AIA
+259,Channel Islands,,CHA
+260,Svalbard and Jan Mayen Islands,,SJM
+264,Isle of Man,Île de Man,IMN
+270,Mayotte,,MYT
+271,South Georgia and the South Sandwich Islands,,SGS
+272,Serbia,Serbie,SRB
+273,Montenegro,Monténégro,MNE
+276,Sudan,Soudan,SDN
+277,South Sudan,Soudan du Sud,SSD
+278,"Bonaire, Sint Eustatius and Saba",,BES
+279,Curaçao,Curacao,CUW
+280,Sint Maarten (Dutch part),Sint Maarten (Dutch part),SXM
+281,Saint-Martin (French part),Saint-Martin (fr),MAF
+282,Saint Barthélemy,,BLM
+283,Jersey,,JEY
+284,Åland Islands,,ALA
+286,Serbia (excluding Kosovo),,
+299,Palestine,Cisjordanie et Gaza,PSE
+351,China,Chine,CHN
+420,Sub-Saharan Africa,,
+429,North Africa (excluding Sudan),,
+9010,High-income economies,,
+9011,Upper-middle-income economies,,
+5000,World,,X01
+5100,Africa,,X06
+5101,Eastern Africa,,
+5102,Middle Africa,,
+5103,Northern Africa,,
+5104,Southern Africa,,
+5105,Western Africa,,
+5200,Americas,,X21
+5203,Northern America,,
+5204,Central America,,
+5205,Latin America and the Caribbean,,
+5206,Caribbean,,
+5207,South America,,
+5208,Northern America and Europe,,
+5300,Asia,,
+5301,Central Asia,,
+5302,Eastern Asia,,
+5303,Southern Asia,,
+5304,South-eastern Asia,,
+5305,Western Asia,,
+5306,Central Asia and Southern Asia,,
+5307,Eastern Asia and South-eastern Asia,,
+5308,Western Asia and Northern Africa,,
+5400,Europe,,
+5401,Eastern Europe,,
+5402,Northern Europe,,
+5403,Southern Europe,,
+5404,Western Europe,,
+5500,Oceania,,
+5501,Australia and New Zealand,,
+5502,Melanesia,,
+5503,Micronesia,,
+5504,Polynesia,,
+5600,Antarctic Region,,
+5706,European Union (28),,
+5707,European Union (27),,
+5801,Least Developed Countries,,
+5802,Land Locked Developing Countries,,
+5803,Small Island Developing States,,
+5807,Oceania excluding Australia and New Zealand,,
+5810,Sub-Saharan Africa (including Sudan),,
+5815,Low Income Food Deficit Countries,,
+5817,Net Food Importing Developing Countries,,
+5848,Annex I countries,,
+5849,Non-Annex I countries,,
+5854,East Asia (excluding China),,
+5855,South Asia (excluding India),,
+5858,Low income economies,,
+5859,Lower-middle-income economies,,
+5873,OECD,,
