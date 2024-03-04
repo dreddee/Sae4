@@ -13,7 +13,7 @@ def read_temp_change():
         temp_change = pd.read_csv(file_path, sep=',')
         temp_change = temp_change.loc[(temp_change['Months Code'] == 7020) & (temp_change['Element Code'] == 7271)]
     else:
-        # File doesn't exist, handle the error accordingly
+        # File doesn't exist, handle the error accordinglys
         print(f"The file {file_path} does not exists.")
     return temp_change
     #s
