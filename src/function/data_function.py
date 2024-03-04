@@ -14,5 +14,6 @@ def read_temp_change():
         temp_change = temp_change.loc[(temp_change['Months Code'] == 7020) & (temp_change['Element Code'] == 7271)]
     else:
         # File doesn't exist, handle the error accordingly
-        print(f"The file {file_path} does not exist.")
+        print(f"The file {file_path} does not exists.")
     return temp_change
+    #s
